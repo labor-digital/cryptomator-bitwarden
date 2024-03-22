@@ -8,7 +8,7 @@ import org.jetbrains.annotations.Nullable;
 public class BitwardenAccess implements KeychainAccessProvider {
     @Override
     public @Nls(capitalization = Nls.Capitalization.Title) String displayName() {
-        return null;
+        return "Bitwarden LABOR Test";
     }
 
     @Override
@@ -33,7 +33,7 @@ public class BitwardenAccess implements KeychainAccessProvider {
 
     @Override
     public boolean isSupported() {
-        return false;
+        return true;
     }
 
     @Override

@@ -27,6 +27,13 @@
             <organization>LABOR.digital</organization>
             <organizationUrl>https://github.com/labor-digital</organizationUrl>
         </developer>
+        <developer>
+            <name>Alex Steckler</name>
+            <email>info@steckler-alex.de</email>
+            <timezone>+1</timezone>
+            <organization>LABOR.digital</organization>
+            <organizationUrl>https://github.com/labor-digital</organizationUrl>
+        </developer>
     </developers>
 
     <properties>
